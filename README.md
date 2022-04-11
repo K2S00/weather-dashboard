@@ -1,5 +1,6 @@
 # weather-dashboard
 https://k2s00.github.io/weather-dashboard/
+https://github.com/K2S00/weather-dashboard
 
 AS A traveler
 I WANT to see the weather outlook for multiple cities
